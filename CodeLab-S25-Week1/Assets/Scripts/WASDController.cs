@@ -16,6 +16,7 @@ public class WASDController : MonoBehaviour
         Debug.Log("START!!!");
 
         rb = null;
+        
     }
 
     // Update is called once per frame
